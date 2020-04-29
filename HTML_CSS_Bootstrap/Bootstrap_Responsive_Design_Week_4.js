@@ -153,6 +153,8 @@ Give your grid background colours so you can see them. You can delete these afte
 A mobile responsive website
 Native apps can tap into functionality of the phone, can use camera, bluetooth, microphone, video recorder. With a mobile responsive website you can’t. You download Apps from the App Store so you get that feeling of downloading an App. 
 
+Within header you might have bootstrap that has 'd-none d-md-block', which means on mobile, don't show it, but medium and upwards, do show it. That's how to get header to hide on mobiles. 
+
 Instagram, Facebook, all use javascript and reactNative to make it a native app. 
 
 James’ tip is Flutter  to take over React - you write the language  once, it’ll run on android, websites, native, etc. 

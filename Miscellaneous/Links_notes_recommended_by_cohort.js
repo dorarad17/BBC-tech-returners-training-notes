@@ -313,3 +313,6 @@ Anyone who hasn't heard of https://www.notion.so/ it's a great note taking websi
 
 keycode.info
 We are immediately introduced to a website that gives a numerical representation of each character on the average keyboard; the importance being that it is really the best way to ensure cross-browser and cross-language compatibility for the app. 
+
+Amelia  
+In case anyone missed it on the general chat, the visual metaphor talk from the Women in React conference was really good - I know we all love a metaphor! From 3hr50 onwards here https://www.youtube.com/watch?v=K8MF3aDg-bM

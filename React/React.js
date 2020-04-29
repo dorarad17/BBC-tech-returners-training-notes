@@ -59,7 +59,7 @@ When you want to start server again, put in npm start again.
 
 EXPLORING WHAT YOU GET 
 
-Open in Studio Visual Code
+Open in Visual Studio Code
 code . 
 Then open Public and index.html.  Generally won’t want to change much in here, as React deals with this, but may want to add in bootstrap and your own css style sheet. 
 
@@ -86,7 +86,7 @@ CREATING COMPONENTS
 Take a look at [Components and Props – React](https://reactjs.org/docs/components-and-props.html)
 - Components let you split the UI into independent, reusable pieces and think about each piece in isolation. 
 
-Can make changes in SVC i.e. in app.js and it does “hot reload” so you don’t need to keep refreshing your App, as you save your changes, it updates automatically. 
+Can make changes in VSC i.e. in app.js and it does “hot reload” so you don’t need to keep refreshing your App, as you save your changes, it updates automatically. 
 */
 
 // Replace this: 
@@ -133,9 +133,9 @@ You can only return one containing element. So it has to be within a div.
 cmd+k and cmd+c to comment out
 cmd+k and cmd+u to uncomment 
 
-Then you can right click on src folder in SVC and select new file and name it Header.js (title case)
+Then you can right click on src folder in VSC and select new file and name it Header.js (title case)
 And then copy contents over from App.js and change class to Header and delete next two things. 
-You’ll always have a render component
+You’ll always have a render component 
 You’ll always have an export default [filename];
 In public folder, create styles.css and paste all your styles in there. And then link it within your html. 
 
