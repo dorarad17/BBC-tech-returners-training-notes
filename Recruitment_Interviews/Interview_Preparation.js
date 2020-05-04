@@ -8,7 +8,7 @@ The Solo session
 Drawing some architecture out? James will send over a whiteboarding video. 
 
 The Pair Programming
-It's more about explaining things through, listening, asking questions, interaction  with the partner. It's mord about that than completing it.
+It's more about explaining things through, listening, asking questions, interaction  with the partner. It's more about that than completing it.
 It's about the logical mindset, and how you talk things through. How you would take it going forward. 
 
 Preparation for assessment day

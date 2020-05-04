@@ -90,7 +90,6 @@ color: orange;
 /*
 <div> and <span>
 
-
 These are all DIVs - Header, Nav, Section, Footer - all these tags are new in HTML5 - aids screen readers for accessibility 
 Also useful for humans reading it through - Footer is your Footer. Nav is your navigation bar. 
 DIV stands for divider - means a block of content
@@ -102,7 +101,7 @@ DIV is a block level element so will fill the whole width of the screen left to 
 </div>
 
 <span style=“background-color: red”>
-DIV is a block level element so will fill only the amount of space they need i.e. as wide as the text they contain</span>
+Span is not a block level element so will fill only the amount of space they need i.e. as wide as the text they contain</span>
 
 CENTRING
 Don’t use center tags

@@ -27,7 +27,7 @@ Can you show us you have learnt from this course and show us you can continue to
 
 We all apply for one role - BBC careershub. 
 
-Learning the principles of what engineering is about - how do you break something down, how do you w
+Learning the principles of what engineering is about - how do you break something down, how do you work out what to do
 Can you reapply that to a different problem. And if we can, we can probably work anywhere. 
 
 We won't be asked questions like 'tell me about a time you failed'. Not looking at CV, have already got through HR process to get here, so won't need to do all that. 
@@ -45,10 +45,10 @@ Communication is the top one. Part of that is active listening as well. Beyond t
 
 What other skills make someone happy or successful at the BBC? 
 
-Good place to work. Everyone has heard of BBC. That level of outreach. Can make a change, graduates made changes to how login systems work. Already making differences to login systems. They have already contributed to that part of the BBC. That's what helps with happines.
+Good place to work. Everyone has heard of BBC. That level of outreach. Can make a change, graduates made changes to how login systems work. Already making differences to login systems. They have already contributed to that part of the BBC. That's what helps with happiness.
 Not profit driven. But there is fixed budget. But then have problems about how to scale up when don't have extra budget, so have to be extra creative. A commercial organisaton would just incrase the budget. But BBC can't do that. 
 Get to work on some of biggest problems that exist. Another failure - iplayer stopped working on TV last night for half an hour and it crashed for half an hour. Due to numbers of poeple using it, and could scale up quickly enough. 
-25/7 engineers - people who enjoy fixing things when they break. 
+24/7 engineers - people who enjoy fixing things when they break. 
 
 35 hour contract and do best to keep people to that. Go home. Don't use Slack and email overnight. 
 
