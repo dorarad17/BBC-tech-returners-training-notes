@@ -149,3 +149,25 @@ Then on the day...
 90 mins - 2 technical exercises 
 One paired with a BBC engineer
 One alone based upon what they have covered in course
+
+
+APPLICATION FORM
+
+personal projects - things you want to do after the course
+Passion and hearing that you care and that you really want to work for the organisation. 
+How you keep up to date on tech topics etc. 
+
+Communication is the top skill for being at BBC. Part of that is active listening as well. Beyond that, it's being innovative, being able to come up with ideas, managing people in a constructive way.
+
+Communicaiton and Creativity and willingness to ask for help. 
+
+Reflect: 
+
+BBC’s mission 
+Our aim is simple - to enrich people's lives with programmes and services that inform, educate and entertain by being the most creative organisation in the world. But we don’t focus simply on what we do – we also care how we do it. 
+BBC’s Six values
+Trust, Audiences, Quality, Creativity, Respect, Work Together
+
+I read the BBC D+E blog on medium.com
+
+Regarding my leanings, I have enjoyed the frontend more than the backend, and would appreciate being placed in a frontend or full stack position. I would also appreciate being in a team that (beyond lockdown!) allows for some remote working. 
