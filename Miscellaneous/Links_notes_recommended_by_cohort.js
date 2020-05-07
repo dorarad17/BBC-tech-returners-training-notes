@@ -316,3 +316,16 @@ We are immediately introduced to a website that gives a numerical representation
 
 Amelia  
 In case anyone missed it on the general chat, the visual metaphor talk from the Women in React conference was really good - I know we all love a metaphor! From 3hr50 onwards here https://www.youtube.com/watch?v=K8MF3aDg-bM
+
+
+Beckie Taylor  
+Webinar on agile project delivery 
+https://us02web.zoom.us/webinar/register/2315886935198/WN_zmBbG-mER5CiUpt5ppzdGA
+
+James  
+For technical debt, I often refer to this guide:
+https://martinfowler.com/bliki/TechnicalDebt.html
+I like its relation to financial debt and how paying it off can be thought of
+
+How to fail by Alain de Bottons
+I’ve just listened to this - https://podcasts.apple.com/gb/podcast/how-to-fail-with-elizabeth-day/id1407451189?i=1000470060728 and found it very thought provoking and strangely comforting.

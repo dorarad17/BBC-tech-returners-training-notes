@@ -16,4 +16,4 @@ LOOK AT JAMES’ POWERPOINT FOR DETAILS ON THIS
 
 James: 
 Great blog and video on remote pair programming
-https://www.remotetomato.com/blog/remote-pair-programming (edited) 
+https://www.remotetomato.com/blog/remote-pair-programming 

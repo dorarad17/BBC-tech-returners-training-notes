@@ -1,3 +1,5 @@
+/*
+
 HTML - FROM HTML4 TO HTML5
 
 Lots of elements from HTML4 have been removed or rewritten
@@ -24,7 +26,7 @@ application cache
 web workers
 etc. 
 
-RELEMENTS THAT HAVE BEE REMOVED
+ELEMENTS THAT HAVE BEEN REMOVED
 
 
 # MORE DETAIL ELEMENTS HTML5 OFFERS
@@ -50,7 +52,7 @@ RELEMENTS THAT HAVE BEE REMOVED
 	<!-- Defines the documents encoding character set (Multi-lingual Universal Transformation Format) -->
 	<meta charset="UTF-8">
 	
-	<!-- Redriects the browser to another page after 3 seconds
+	<!-- Redirects the browser to another page after 3 seconds
 	<meta http-equiv="refresh" content= "3; url='redirect.html'"/> -->
 	
 	<!-- Description for your page. Shouldn't be longer then 200 characters -->

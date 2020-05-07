@@ -158,4 +158,5 @@ Things are heading to be more augmented. It's pretty fun and so rewarding. When 
 
 When you get a steep learning curve it's hard to get a sense of gratification. So these fun things are to keep you creative and fun. 
 
-                             
+SuperHi is the place that Viv did her website learning that is focused on design rather than just computer science. 
+https://www.superhi.com/courses/wordpress
